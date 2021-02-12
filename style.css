@@ -1,0 +1,71 @@
+
+img{
+    width: 20%;
+    margin: 0px auto;
+}
+#musica{
+    width: 60%;
+    margin: 0px auto;
+}
+#musica h1{
+    width: 20%;
+    margin: 0px auto;
+    padding: 50px;
+}
+#galeria{
+    width: 60%;
+    margin: 0px auto;
+}
+#galeria h1{
+    width: 20%;
+    margin: 0px auto;
+    padding: 50px;
+}
+#aboutUs{
+    width: 60%;
+    margin: 0px auto;
+}
+#aboutUs h1{
+    width: 20%;
+    margin: 0px auto;
+    padding: 50px;
+}
+#video{
+    width: 60%;
+    margin: 0px auto;
+}
+#video h1{
+    width: 20%;
+    margin: 0px auto;
+    padding: 50px;
+}
+
+.navbar h1{
+    width: 12%;
+    margin: 0px auto;
+    padding: 40px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+  }
+
+li {
+float: right;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
